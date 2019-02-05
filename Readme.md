@@ -1,7 +1,7 @@
 # Inaudible
 
 Android application generating music depending on Wi-Fi networks surrounding you.  
-Inspired by [The man who can hear Wi-Fi wherever he walks](https://www.newscientist.com/article/mg22429952-300-the-man-who-can-hear-wi-fi-wherever-he-walks/ https://soundcloud.com/alissa-walker/phantom-terrains-audio).
+Inspired by [The man who can hear Wi-Fi wherever he walks](https://www.newscientist.com/article/mg22429952-300-the-man-who-can-hear-wi-fi-wherever-he-walks/).
 
 ![Screenshot](https://raw.githubusercontent.com/thdoteo/Inaudible/master/screenshot.png)  
 
