@@ -2,7 +2,7 @@
 
 Android application generating music depending on Wi-Fi networks surrounding you.  
 
-![Screenshot](https://raw.githubusercontent.com/thdoteo/Inaudivle/master/screenshot.png)  
+![Screenshot](https://raw.githubusercontent.com/thdoteo/Inaudible/master/screenshot.png)  
 
 
 
